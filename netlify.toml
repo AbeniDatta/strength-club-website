@@ -1,3 +1,10 @@
 [build]
   publish = "out"
   command = "npm run build-prod"
+  node_version = "18.0.0"
+
+[build.environment]
+  NODE_OPTIONS = "--openssl-legacy-provider"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
