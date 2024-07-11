@@ -41,7 +41,7 @@
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Events",
     "items": [
       {
         "title": "A plug n play template",
@@ -68,7 +68,7 @@
       {
         "name": "Brian",
         "description": "Director of Finance & Sponsorhips",
-        "icon": "/assets/images/vanshaj.jpg"
+        "icon": "/assets/images/brian.jpg"
       },
       {
         "name": "Claire",
@@ -98,7 +98,7 @@
       {
         "name": "Mai",
         "description": "Director of Merchandise",
-        "icon": "/assets/images/vanshaj.jpg"
+        "icon": "/assets/images/mai.jpg"
       }
     ]
   },
