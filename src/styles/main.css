@@ -4,9 +4,9 @@
 
 
 :root {
-  --color-primary: #ec4755;
-  --color-secondary: #a12c34;
-  --color-tertiaty: #99a0a3;
+  --color-primary: rgb(247, 187, 9);
+  --color-secondary: rgb(218, 159, 33);
+  --color-tertiaty: #000000;
 }
 
 a { 

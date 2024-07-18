@@ -29,7 +29,7 @@ const Events = () => {
         <div className="w-full my-2 flex justify-center">
           <a
             href={events.link.url}
-            className="block bg-primary text-white text-center py-2 px-4 rounded-lg shadow-md hover:bg-secondary"
+            className="block bg-primary text-white text-center border-transparent py-2 px-4 rounded-lg shadow-md hover:bg-yellow-500 hover:border-none"
           >
             {events.link.text}
           </a>
