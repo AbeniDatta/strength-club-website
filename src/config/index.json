@@ -40,18 +40,26 @@
       "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
     }
   },
-  "product": {
-    "title": "Events",
+  "events": {
+    "title": "Upcoming Events",
+    "link": {
+      "url": "https://warrior.uwaterloo.ca/Program/GetProgramDetails?courseId=d5e8f642-3ffa-42ef-8f24-7bf55c40f5ec",
+      "text": "Click here to register for upcoming events!"
+    },
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
-        "img": "/assets/images/product1.jpg"
+        "title": "Battle of the Barbells Mock Meet",
+        "description": "Come out to our end of term mock meet and test your max SBD or max Oly lifts. This event is designed for all to come show off their hard work and progress from over the term.",
+        "dateTime": "Saturday July 20th 10:00 AM",
+        "location": "Columbia Ice Field",
+        "img": "/assets/images/mockmeet.jpeg"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
-        "img": "/assets/images/product2.jpg"
+        "title": "Battle of the Barbells Mock Meet",
+        "description": "Come out to our end of term mock meet and test your max SBD or max Oly lifts. This event is designed for all to come show off their hard work and progress from over the term.",
+        "dateTime": "Saturday July 20th 10:00 AM",
+        "location": "Columbia Ice Field",
+        "img": "/assets/images/mockmeet.jpeg"
       }
     ]
   },

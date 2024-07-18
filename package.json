@@ -13,6 +13,8 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^6.6.0",
+    "@fortawesome/react-fontawesome": "^0.2.2",
     "@headlessui/react": "^1.4.1",
     "@heroicons/react": "^1.0.5",
     "@netlify/plugin-nextjs": "^5.5.1",
