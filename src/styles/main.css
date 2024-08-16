@@ -18,7 +18,6 @@ a:hover {
 }
 
 
-
 .content p {
   @apply my-6;
 }
@@ -38,3 +37,62 @@ css
 .custom-bullet li::marker {
   color: rgb(247, 187, 9);
 }
+
+.custom-legend .legend {
+  font-size: 1.1rem !important; 
+  font-weight: bold;
+  background: rgba(22, 20, 20, 0.405) !important; 
+  padding: 5px !important; 
+  border-radius: 5px; 
+  opacity: 1 !important; 
+}
+
+
+.carousel .control-next.control-arrow:before {
+  border-left: 20px solid rgb(247, 187, 9) !important;
+  border-top: 20px solid transparent !important;
+  border-bottom: 20px solid transparent !important;
+}
+
+.carousel .control-arrow:before, 
+.carousel.carousel-slider .control-arrow:before {
+  border-top: 14px solid transparent;
+  border-bottom: 14px solid transparent;
+}
+
+.carousel .control-next.control-arrow:hover:before{
+  border-left: 20px solid rgb(200, 150, 0) !important; 
+}
+
+.carousel .control-prev.control-arrow:hover:before {
+  border-right: 20px solid rgb(200, 150, 0) !important; 
+}
+
+.carousel .control-prev.control-arrow:before {
+  border-right: 20px solid rgb(247, 187, 9) !important;
+  border-top: 20px solid transparent !important;
+  border-bottom: 20px solid transparent !important;
+}
+
+.carousel .control-arrow:before, 
+.carousel.carousel-slider .control-arrow:before {
+  border-top: 14px solid transparent;
+  border-bottom: 14px solid transparent;
+}
+
+
+.carousel .control-arrow {
+  background: none !important;
+  opacity: 1 !important;
+}
+
+.carousel .control-arrow:hover {
+  background: none;
+}
+
+.custom-carousel img {
+  max-width: 100%;
+  height: auto; 
+}
+
+

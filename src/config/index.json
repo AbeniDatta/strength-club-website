@@ -51,7 +51,8 @@
     "link": {
       "url": "https://warrior.uwaterloo.ca/membership/GetMembershipSummary?membershipProductId=033cb8ee-25ac-441b-8a2d-c82d882b7d2b",
       "text": "Click here to register as a member!"
-    }
+    },
+    "inventory": "Below is our current inventory of equipment"
   },
   "events": {
     "title": "Upcoming Events",

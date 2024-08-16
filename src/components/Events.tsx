@@ -11,10 +11,10 @@ const Events = () => {
   const [firstItem, secondItem] = events.items;
 
   return (
-    <section className={`bg-background py-8`} id="events">
-      <div className={`container max-w-5xl mx-auto m-8`}>
+    <section className={`bg-background py-4`} id="events">
+      <div className={`container max-w-5xl mx-auto m-2`}>
         <h1
-          className={`w-full my-2 text-5xl font-bold leading-tight text-center text-primary`}
+          className={`w-full my-2 text-4xl font-bold leading-tight text-center text-primary`}
         >
           {events.title.split(' ').map((word, index) => (
             <span
