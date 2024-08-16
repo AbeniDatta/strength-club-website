@@ -19,7 +19,6 @@ const MembInfo = () => {
             {title}
           </p>
         </div>
-
         <Divider />
 
         <div className="w-full my-2 flex text-center justify-center items-center">
