@@ -9,6 +9,7 @@ import LazyShow from '../components/LazyShow';
 import MainHero from '../components/MainHero';
 import MainHeroImage from '../components/MainHeroImage';
 import MeetTheTeam from '../components/MeetTheTeam'; // Updated import statement
+import MembInfo from '../components/MembInfo';
 import Pricing from '../components/Pricing';
 
 const App = () => {
@@ -23,6 +24,11 @@ const App = () => {
         </div>
         <MainHeroImage />
       </div>
+      <LazyShow>
+        <>
+          <MembInfo />
+        </>
+      </LazyShow>
       <LazyShow>
         <>
           <Events />

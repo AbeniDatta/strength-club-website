@@ -5,8 +5,8 @@
   },
   "navigation": [
     {
-      "name": "About",
-      "href": "about"
+      "name": "Membership Info",
+      "href": "membInfo"
     },
     {
       "name": "Events",
@@ -16,10 +16,6 @@
     {
       "name": "Meet The Team",
       "href": "meetTheTeam"
-    },
-    {
-      "name": "Gallery",
-      "href": "gallery"
     }
   ],
   "callToAction": {
@@ -38,6 +34,23 @@
     "secondaryAction": {
       "text": "Email us",
       "href": "mailto:uwstrengthclub@gmail.com?subject=Enter Subject Here"
+    }
+  },
+  "membInfo": {
+    "title": "Membership Information",
+    "price": "$8",
+    "perks": [
+      "Access to ALL UWSC workshops, seminars, lift-togethers and competitions",
+      "Access to specialty UWSC equipment at PAC",
+      "Discounts through our partners (Biosteel, Domino's etc.)",
+      "Opportunity to be featured on Member Mondays"
+    ],
+    "disclaimer": "*Memberships are active for only the term they are purchased.",
+    "disclaimer2": "*Membership may be revoked if member breaks WlooRec or our guidelines.",
+    "disclaimer3": "*All members may join the discord community for free",
+    "link": {
+      "url": "https://warrior.uwaterloo.ca/membership/GetMembershipSummary?membershipProductId=033cb8ee-25ac-441b-8a2d-c82d882b7d2b",
+      "text": "Click here to register as a member!"
     }
   },
   "events": {

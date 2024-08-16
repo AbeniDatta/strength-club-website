@@ -26,3 +26,15 @@ a:hover {
 .content ul {
   @apply my-6;
 }
+
+css
+
+
+.custom-bullet li {
+  list-style-type: disc; 
+  color: rgb(247, 187, 9); 
+}
+
+.custom-bullet li::marker {
+  color: rgb(247, 187, 9);
+}
