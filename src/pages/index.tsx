@@ -1,8 +1,6 @@
 import React from 'react';
 
 import About from '../components/About';
-import Analytics from '../components/Analytics';
-import Canvas from '../components/Canvas';
 import Events from '../components/Events';
 import Header from '../components/Header';
 import LazyShow from '../components/LazyShow';
@@ -10,7 +8,6 @@ import MainHero from '../components/MainHero';
 import MainHeroImage from '../components/MainHeroImage';
 import MeetTheTeam from '../components/MeetTheTeam'; // Updated import statement
 import MembInfo from '../components/MembInfo';
-import Pricing from '../components/Pricing';
 
 const App = () => {
   return (
@@ -37,19 +34,13 @@ const App = () => {
       <LazyShow>
         <>
           <MeetTheTeam />
-          <Canvas />
         </>
-      </LazyShow>
-      <LazyShow>
-        <Pricing />
       </LazyShow>
       <LazyShow>
         <>
-          <Canvas />
           <About />
         </>
       </LazyShow>
-      <Analytics />
     </div>
   );
 };
