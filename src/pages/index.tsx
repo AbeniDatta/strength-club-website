@@ -6,7 +6,7 @@ import Header from '../components/Header';
 import LazyShow from '../components/LazyShow';
 import MainHero from '../components/MainHero';
 import MainHeroImage from '../components/MainHeroImage';
-import MeetTheTeam from '../components/MeetTheTeam'; // Updated import statement
+import MeetTheTeam from '../components/MeetTheTeam';
 import MembInfo from '../components/MembInfo';
 
 const App = () => {

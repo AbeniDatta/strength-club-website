@@ -18,15 +18,11 @@
       "href": "meetTheTeam"
     }
   ],
-  "callToAction": {
-    "text": "",
-    "href": "#"
-  },
   "mainHero": {
     "title": "Welcome to",
     "subtitle": "UW Strength Club",
     "description": "The UWSC facilitates a supportive gym environment for UW gym-goers. We aim to break down barriers for beginners, by teaching members how to lift weights in a safe and healthy manner. We especially make efforts to encourage more women to join the gym space and kickstart their gym journey. Our club encompasses different fitness disciplines including powerlifting, olympic lifting, bodybuilding, calisthenics, and general strength.",
-    "img": "/assets/images/happyTeam.jpg",
+    "img": "/assets/gallery/g20.jpg",
     "primaryAction": {
       "text": "Get started",
       "href": "#"
@@ -176,7 +172,7 @@
       },
       {
         "name": "Team",
-        "href": "#",
+        "href": "#meetTheTeam",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       },
       {
