@@ -1,12 +1,13 @@
-// pages/gallery.tsx
-import { useEffect } from 'react';
+import React, { useEffect } from 'react';
 
-import 'lightgallery/css/lightgallery.css'; // Import lightgallery core styles
-import 'lightgallery/css/lg-zoom.css'; // Import zoom plugin styles
-import 'lightgallery/css/lg-thumbnail.css'; // Import thumbnail plugin styles
+import 'lightgallery/css/lightgallery.css';
+import 'lightgallery/css/lg-zoom.css';
+import 'lightgallery/css/lg-thumbnail.css';
 import lightGallery from 'lightgallery';
 import lgThumbnail from 'lightgallery/plugins/thumbnail';
 import lgZoom from 'lightgallery/plugins/zoom';
+
+import Header from '../components/Header';
 
 const Gallery: React.FC = () => {
   useEffect(() => {
@@ -49,18 +50,34 @@ const Gallery: React.FC = () => {
   ];
 
   return (
-    <div className="p-4">
-      <h1 className="text-2xl font-bold mb-4">Gallery</h1>
-      <div className="gallery grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
-        {images.map((image, index) => (
-          <a key={index} href={image.src} data-lg-size="1600-2400">
-            <img
-              src={image.thumb}
-              alt={`Gallery Image ${index + 1}`}
-              className="w-full h-auto border-2 border-gray-200 rounded"
-            />
-          </a>
-        ))}
+    <div className="bg-background grid gap-y-4 overflow-hidden">
+      <div className="relative bg-background">
+        <div className="max-w-7xl mx-auto">
+          <div className="relative z-10 pb-4 bg-background sm:pb-4 md:pb-4 lg:max-w-2xl lg:w-full lg:pb-4 xl:pb-4">
+            <Header />
+          </div>
+        </div>
+      </div>
+      <div className="max-w-7xl mx-auto p-4">
+        <h1 className="text-3xl font-bold mb-4 text-center">Gallery</h1>
+        <div className="gallery grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
+          {images.map((image, index) => (
+            <a
+              key={index}
+              href={image.src}
+              data-lg-size="1600-2400"
+              className="transition-transform transition-shadow hover:scale-105"
+            >
+              <img
+                src={image.thumb}
+                alt={`Gallery Image ${index + 1}`}
+                className="w-full h-auto rounded opacity-90 transition-opacity"
+                onLoad={(e) => e.currentTarget.classList.remove('loading')}
+                onError={(e) => e.currentTarget.classList.remove('loading')}
+              />
+            </a>
+          ))}
+        </div>
       </div>
     </div>
   );
