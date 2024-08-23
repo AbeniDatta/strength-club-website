@@ -23,11 +23,16 @@
     "subtitle": "UW Strength Club",
     "description": "The UWSC facilitates a supportive gym environment for UW gym-goers. We aim to break down barriers for beginners, by teaching members how to lift weights in a safe and healthy manner. We especially make efforts to encourage more women to join the gym space and kickstart their gym journey. Our club encompasses different fitness disciplines including powerlifting, olympic lifting, bodybuilding, calisthenics, and general strength.",
     "img": "/assets/gallery/g20.jpg",
-    "primaryAction": {
-      "text": "Get started",
-      "href": "#"
+    "instagram": {
+      "href": "https://www.instagram.com/uwstrengthclub"
     },
-    "secondaryAction": {
+    "discord": {
+      "href": "https://discord.gg/fztDjhsvZH"
+    },
+    "linktree": {
+      "href": "https://linktr.ee/uwstrengthclub"
+    },
+    "email": {
       "text": "Email us",
       "href": "mailto:uwstrengthclub@gmail.com?subject=Enter Subject Here"
     }
