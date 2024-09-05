@@ -1,1 +1,1 @@
-This is the official UWSC website! 
+This is the official UWSC website! It is updated regularly throughout the term and contains all information regarding upcoming events, equipment inventory, and FAQs. 
