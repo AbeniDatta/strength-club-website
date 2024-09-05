@@ -71,31 +71,14 @@ const MembInfo = () => {
             >
               <div className="flex items-center justify-center ">
                 <img
-                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo3XDdAdzyJNmdKFa_t10nzR_ecqMPSijvdQ&s"
-                  alt="Power Bar"
+                  src="/assets/equipment/bars.JPEG"
+                  alt="Power & Olympic Bar"
                 />
-                <p className="legend">Power Bar</p>
+                <p className="legend">Power & Olympic Bar</p>
               </div>
               <div>
-                <img
-                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo3XDdAdzyJNmdKFa_t10nzR_ecqMPSijvdQ&"
-                  alt="Olympic Bar"
-                />
-                <p className="legend">Olympic Bar</p>
-              </div>
-              <div>
-                <img
-                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo3XDdAdzyJNmdKFa_t10nzR_ecqMPSijvdQ&"
-                  alt="Change Plates"
-                />
-                <p className="legend">Change Plates</p>
-              </div>
-              <div>
-                <img
-                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo3XDdAdzyJNmdKFa_t10nzR_ecqMPSijvdQ&"
-                  alt="MAG Grip Attachments"
-                />
-                <p className="legend">MAG Grip Attachments</p>
+                <img src="/assets/equipment/maggrips.JPEG" alt="MAG Grips" />
+                <p className="legend">MAG Grips</p>
               </div>
             </Carousel>
           </div>

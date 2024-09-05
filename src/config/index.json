@@ -56,18 +56,18 @@
     "inventory": "Below is our current inventory of equipment"
   },
   "events": {
-    "title": "Upcoming Events",
+    "title": "Fall Events",
     "link": {
       "url": "https://warrior.uwaterloo.ca/Program/GetProgramDetails?courseId=d5e8f642-3ffa-42ef-8f24-7bf55c40f5ec",
       "text": "Click here to register for upcoming events!"
     },
     "items": [
       {
-        "title": "Battle of the Barbells Mock Meet",
-        "description": "Come out to our end of term mock meet and test your max SBD or max Oly lifts. This event is designed for all to come show off their hard work and progress from over the term.",
-        "dateTime": "Saturday July 20th 10:00 AM",
-        "location": "Columbia Ice Field",
-        "img": "/assets/images/mockmeet.jpeg"
+        "title": "Try-It Session",
+        "description": "Come on out to our FREE introduction session where we'll be giving a presentation on the ins and outs of Strength Club. Come prepared to hit an optional lift-together with us after!",
+        "dateTime": "Sunday September 8th 11:00 AM",
+        "location": "Physical Activities Complex - Room 2021",
+        "img": "/assets/gallery/g18.JPG"
       },
       {
         "title": "Battle of the Barbells Mock Meet",
