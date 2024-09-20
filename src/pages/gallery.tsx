@@ -44,7 +44,6 @@ const Gallery: React.FC = () => {
     { src: '/assets/gallery/g24.JPG', thumb: '/assets/gallery/g24.JPG' },
     { src: '/assets/gallery/g25.JPEG', thumb: '/assets/gallery/g25.JPEG' },
     { src: '/assets/gallery/g26.JPEG', thumb: '/assets/gallery/g26.JPEG' },
-    { src: '/assets/gallery/g27.jpg', thumb: '/assets/gallery/g27.jpg' },
     { src: '/assets/gallery/g28.jpg', thumb: '/assets/gallery/g28.jpg' },
     { src: '/assets/gallery/g29.JPG', thumb: '/assets/gallery/g29.JPG' },
   ];
