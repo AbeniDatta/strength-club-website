@@ -80,6 +80,13 @@ const MembInfo = () => {
                 <img src="/assets/equipment/maggrips.JPEG" alt="MAG Grips" />
                 <p className="legend">MAG Grips</p>
               </div>
+              <div>
+                <img
+                  src="/assets/equipment/clipChange.JPEG"
+                  alt="Clips & Change Plates"
+                />
+                <p className="legend">Clips & Change Plates</p>
+              </div>
             </Carousel>
           </div>
 
