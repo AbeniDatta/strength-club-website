@@ -74,7 +74,7 @@ const MembInfo = () => {
                   src="/assets/equipment/bars.JPEG"
                   alt="Power & Olympic Bar"
                 />
-                <p className="legend">Power & Olympic Bar</p>
+                <p className="legend">Power (2) & Olympic Bar (1)</p>
               </div>
               <div>
                 <img src="/assets/equipment/maggrips.JPEG" alt="MAG Grips" />
