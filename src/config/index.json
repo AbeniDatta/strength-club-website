@@ -56,7 +56,7 @@
     "inventory": "Below is our current inventory of equipment"
   },
   "events": {
-    "title": "Fall Events",
+    "title": "Winter Events",
     "link": {
       "url": "https://warrior.uwaterloo.ca/Program/GetProgramDetails?courseId=d5e8f642-3ffa-42ef-8f24-7bf55c40f5ec",
       "text": "Click here to register for upcoming events!"
@@ -139,11 +139,6 @@
         "name": "Abeni",
         "description": "Webmaster",
         "icon": "/assets/images/abeni1.jpg"
-      },
-      {
-        "name": "Christiano",
-        "description": "Director of Communications",
-        "icon": "/assets/images/chris.jpg"
       },
       {
         "name": "Jayden",
