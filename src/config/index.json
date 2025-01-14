@@ -39,7 +39,7 @@
   },
   "membInfo": {
     "title": "Membership Information",
-    "price": "$8",
+    "price": "$10",
     "perks": [
       "Access to ALL UWSC workshops, seminars, lift-togethers and competitions",
       "Access to specialty UWSC equipment at PAC",
@@ -121,24 +121,24 @@
     ]
   },
   "meetTheTeam": {
-    "title": "S2024 Team",
+    "title": "W2025 Team",
     "subtitle": "Meet the Team!",
     "description": " ",
     "items": [
       {
         "name": "Jacob",
         "description": "President",
-        "icon": "/assets/images/jacob.jpg"
+        "icon": "/assets/images/jacob1.jpg"
       },
       {
-        "name": "Brian",
+        "name": "Aiden",
         "description": "Director of Finance & Sponsorhips",
-        "icon": "/assets/images/brian.jpg"
+        "icon": "/assets/images/aiden.jpg"
       },
       {
-        "name": "Claire",
-        "description": "Wembaster",
-        "icon": "/assets/images/claire.jpg"
+        "name": "Abeni",
+        "description": "Webmaster",
+        "icon": "/assets/images/abeni1.jpg"
       },
       {
         "name": "Christiano",
@@ -146,24 +146,24 @@
         "icon": "/assets/images/chris.jpg"
       },
       {
-        "name": "Liv",
+        "name": "Jayden",
         "description": "Director of Promotions",
+        "icon": "/assets/images/jayden.jpg"
+      },
+      {
+        "name": "Leo",
+        "description": "Director of Social Media",
+        "icon": "/assets/images/leo.jpg"
+      },
+      {
+        "name": "Liv",
+        "description": "Secretary & Powerlifting Team Captain",
         "icon": "/assets/images/liv.jpg"
       },
       {
-        "name": "Vanshaj",
-        "description": "Director of Social Media",
-        "icon": "/assets/images/vanshaj.jpg"
-      },
-      {
-        "name": "Massimo",
-        "description": "Secretary",
-        "icon": "/assets/images/massimo.jpg"
-      },
-      {
-        "name": "Mai",
+        "name": "Nowshin",
         "description": "Director of Merchandise",
-        "icon": "/assets/images/mai.jpg"
+        "icon": "/assets/images/nowshin.jpg"
       }
     ]
   },
