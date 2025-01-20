@@ -77,44 +77,9 @@
         "img": "/assets/gallery/sheffield1.jpg"
       },
       {
-        "title": "Bodybuilding, Lift, Learn, Legs",
-        "description": "Presentation/seminar on principles of training for bodybuilding, program design, and how to best structure your gym time when prepping for a bodybuilding show in off season vs prep. This is followed by an active practical gym component where we will be putting in practice some of the hypertrophic principles and techniques discussed during the seminar.",
-        "dateTime": "Sunday October 6th 12:00 PM",
-        "location": "PAC 1001",
-        "img": "/assets/gallery/g29.JPG"
-      },
-      {
-        "title": "Learn to Clean and Jerk",
-        "description": "Come learn how to do a full power clean and jerk with our Weightlifting execs including the mobility routine for weightlifting! We welcome any skill level, whether you are a complete beginner wanting to learn a new skill or an intermediate weightlifter who just wanted a form check, we got you covered.",
-        "dateTime": "Sunday October 20th 1:00 PM",
-        "location": "CIF Fitness Centre",
-        "img": "/assets/images/cj.jpg"
-      },
-      {
-        "title": "WOMENS ONLY: Goals and Ghouls",
-        "description": "Come out to a spooky Halloween themed women's only event with your female execs. This event will take you through a full body lift and will help you refine your form and learn some new exercises!",
-        "dateTime": "Saturday October 26th 12:00 PM",
-        "location": "PAC Fitness Centre",
-        "img": "/assets/gallery/g4.JPG"
-      },
-      {
-        "title": "Rope Rumble",
-        "description": "Come to the UWSC tug of war challenge where you’ll compete in groups of 3 in a round robin elimination style. Test out the strength you’ve been training for! You may sign up in groups of 2,3 or individually. The winning team will receive prizes!",
-        "dateTime": "Saturday November 9th 3:00 PM",
-        "location": "PAC Warrior Zone",
-        "img": "/assets/images/rope.jpg"
-      },
-      {
-        "title": "Nutrition Seminar With R.D Max Snider",
-        "description": "Come out to a seminar run by Registered Dietician and Powerlifting Coach Max Snider. He will be going over the ins and outs of nutrition and supplements, as well as how to properly fuel your workout and cut/bulk effectively.",
-        "dateTime": "Saturday November 16th 1:00 PM",
-        "location": "PAC 1001",
-        "img": "/assets/images/max.png"
-      },
-      {
         "title": "Battle of the Barbells Mock Meet",
         "description": "Come out to our end of term mock meet and test your max SBD or max Oly lifts. This event is designed for all to come show off their hard work and progress from over the term.",
-        "dateTime": "Sunday December 1st 10:00 AM",
+        "dateTime": "Sunday April 5th 10:00 AM",
         "location": "CIF Fitness Centre",
         "img": "/assets/gallery/g22.JPG"
       }
