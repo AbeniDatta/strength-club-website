@@ -127,7 +127,7 @@
     "items": [
       {
         "name": "Jacob",
-        "description": "President",
+        "description": "President, Powerlifting",
         "icon": "/assets/images/jacob1.jpg"
       },
       {
@@ -142,12 +142,12 @@
       },
       {
         "name": "Jayden",
-        "description": "Director of Promotions",
+        "description": "Director of Promotions, General Strength",
         "icon": "/assets/images/jayden.JPG"
       },
       {
         "name": "Leo",
-        "description": "Director of Social Media",
+        "description": "Director of Social Media, Powerliftinh",
         "icon": "/assets/images/leo.jpg"
       },
       {
