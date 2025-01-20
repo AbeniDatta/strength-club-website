@@ -65,16 +65,16 @@
       {
         "title": "Try-It Session",
         "description": "Come on out to our FREE introduction session where we'll be giving a presentation on the ins and outs of Strength Club. Come prepared to hit an optional lift-together with us after!",
-        "dateTime": "Sunday September 8th 11:00 AM",
+        "dateTime": "Saturday January 25th 1:00 PM",
         "location": "PAC 2021",
         "img": "/assets/gallery/g18.JPG"
       },
       {
-        "title": "Repitition Rampage",
-        "description": "Come test your strength with our repetition rampage bench press competition. You will be benching 60% female / 70% male of your body weight for max reps. Max reps for female and male winners will receive prizes. Come out and see who the strongest bencher at UW is!",
-        "dateTime": "Saturday October 5th 1:00 PM",
-        "location": "PAC Fitness Centre",
-        "img": "/assets/gallery/g24.JPG"
+        "title": "Powerlifting Watch Party",
+        "description": "Join us for Sheffield 2025, the biggest and most exciting event of the year in the world of powerlifting! Witness elite athletes from around the globe compete at the highest level, showcasing strength, determination, and raw power. Whether you're a die-hard fan or new to the sport, this is an experience you won't want to miss. Come for the entire event or drop by for part of it—just be sure to bring your snacks, cheer for your favorites, and soak in the incredible atmosphere. Let's make it a fun and memorable celebration of strength together!",
+        "dateTime": "Sunday January 26th 9:30 AM - 2:30 PM",
+        "location": "MC 2017",
+        "img": "/assets/gallery/sheffield1.jpg"
       },
       {
         "title": "Bodybuilding, Lift, Learn, Legs",
@@ -132,18 +132,18 @@
       },
       {
         "name": "Aiden",
-        "description": "Director of Finance & Sponsorhips",
+        "description": "Director of Finance & Sponsorships, Powerlifting",
         "icon": "/assets/images/aiden.jpg"
       },
       {
         "name": "Abeni",
-        "description": "Webmaster",
+        "description": "Webmaster, General Strength",
         "icon": "/assets/images/abeni1.jpg"
       },
       {
         "name": "Jayden",
         "description": "Director of Promotions",
-        "icon": "/assets/images/jayden.jpg"
+        "icon": "/assets/images/jayden.JPG"
       },
       {
         "name": "Leo",
@@ -157,7 +157,7 @@
       },
       {
         "name": "Nowshin",
-        "description": "Director of Merchandise",
+        "description": "Director of Merchandise, General Strength",
         "icon": "/assets/images/nowshin.jpg"
       }
     ]
