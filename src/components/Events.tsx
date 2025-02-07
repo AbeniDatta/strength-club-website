@@ -8,7 +8,8 @@ import config from '../config/index.json';
 
 const Events = () => {
   const { events } = config;
-  const [firstItem, secondItem, thirdItem] = events.items;
+  const [firstItem, secondItem, thirdItem, fourthItem, fifthItem, sixthItem] =
+    events.items;
 
   return (
     <section className={`bg-background py-4`} id="events">
@@ -140,6 +141,114 @@ const Events = () => {
               src={thirdItem?.img}
               alt={thirdItem?.title}
             />
+          </div>
+        </div>
+
+        {/* right */}
+        <div className={`flex flex-wrap flex-col-reverse sm:flex-row`}>
+          <div
+            className={`w-full sm:w-1/2 p-6 flex justify-center items-center`}
+          >
+            <img
+              className="h-5/6"
+              src={fourthItem?.img}
+              alt={fourthItem?.title}
+            />
+          </div>
+          <div className={`w-full sm:w-1/2 p-4 sm:p-6 mt-4 sm:mt-15`}>
+            <h3
+              className={`text-2xl sm:text-2xl text-gray-800 font-bold leading-tight mb-3`}
+            >
+              {fourthItem?.title}
+            </h3>
+            <h4
+              className={`text-1xl text-yellow-500 font-bold leading-none mb-3`}
+            >
+              <FontAwesomeIcon icon={faClock} className="mr-2 text-primary" />
+              {fourthItem?.dateTime}
+            </h4>
+            <h4
+              className={`text-1xl text-yellow-500 font-bold leading-none mb-3`}
+            >
+              <FontAwesomeIcon
+                icon={faMapMarkerAlt}
+                className="mr-3 ml-0.5 text-primary"
+              />
+              {fourthItem?.location}
+            </h4>
+            <p className={`text-gray-600`}>{fourthItem?.description}</p>
+          </div>
+        </div>
+
+        {/* left */}
+        <div className={`flex flex-wrap`}>
+          <div className={`w-full sm:w-1/2 p-4 sm:p-6 mt-4 sm:mt-15`}>
+            <h3
+              className={`text-2xl sm:text-2xl text-gray-800 font-bold leading-tight mb-3`}
+            >
+              {fifthItem?.title}
+            </h3>
+            <h4
+              className={`text-1xl text-yellow-500 font-bold leading-none mb-3`}
+            >
+              <FontAwesomeIcon icon={faClock} className="mr-2 text-primary" />
+              {fifthItem?.dateTime}
+            </h4>
+            <h4
+              className={`text-1xl text-yellow-500 font-bold leading-none mb-3`}
+            >
+              <FontAwesomeIcon
+                icon={faMapMarkerAlt}
+                className="mr-3 ml-0.5 text-primary"
+              />
+              {fifthItem?.location}
+            </h4>
+            <p className={`text-gray-600`}>{fifthItem?.description}</p>
+          </div>
+          <div
+            className={`w-full sm:w-1/2 p-6 flex justify-center items-center`}
+          >
+            <img
+              className="h-5/6"
+              src={fifthItem?.img}
+              alt={fifthItem?.title}
+            />
+          </div>
+        </div>
+
+        {/* right */}
+        <div className={`flex flex-wrap flex-col-reverse sm:flex-row`}>
+          <div
+            className={`w-full sm:w-1/2 p-6 flex justify-center items-center`}
+          >
+            <img
+              className="h-5/6"
+              src={sixthItem?.img}
+              alt={sixthItem?.title}
+            />
+          </div>
+          <div className={`w-full sm:w-1/2 p-4 sm:p-6 mt-4 sm:mt-15`}>
+            <h3
+              className={`text-2xl sm:text-2xl text-gray-800 font-bold leading-tight mb-3`}
+            >
+              {sixthItem?.title}
+            </h3>
+            <h4
+              className={`text-1xl text-yellow-500 font-bold leading-none mb-3`}
+            >
+              <FontAwesomeIcon icon={faClock} className="mr-2 text-primary" />
+              {sixthItem?.dateTime}
+            </h4>
+            <h4
+              className={`text-1xl text-yellow-500 font-bold leading-none mb-3`}
+            >
+              <FontAwesomeIcon
+                icon={faMapMarkerAlt}
+                className="mr-3 ml-0.5 text-primary"
+              />
+              {sixthItem?.location}
+            </h4>
+            <p className={`text-gray-600`}>{sixthItem?.description}</p>
           </div>
         </div>
       </div>

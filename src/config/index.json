@@ -77,11 +77,32 @@
         "img": "/assets/gallery/sheffield1.jpg"
       },
       {
-        "title": "Battle of the Barbells Mock Meet",
-        "description": "Come out to our end of term mock meet and test your max SBD or max Oly lifts. This event is designed for all to come show off their hard work and progress from over the term.",
-        "dateTime": "Sunday April 5th 10:00 AM",
+        "title": "Galentine's Day Event",
+        "description": "Come out and join our female execs for an empowering women-only lifting event during women's hours. We will take you through a workout and provide tips and tricks for helping you achieve your gym goals.",
+        "dateTime": "Wednesday February 12th 1:00 PM - 2:00 PM",
         "location": "CIF Fitness Centre",
+        "img": "/assets/gallery/g4.JPG"
+      },
+      {
+        "title": "Beginner Powerlifting Seminar",
+        "description": "Do you want to get started in powerlifting? Want to learn everything needed to get ready for your first Powerlifting Meet? Come out to our Beginner Powerlifing Seminar! At our seminar, you'll learn everything from how to train like a powerlifter and ace your first meet to what to look for in a coach.",
+        "dateTime": "Saturday March 8th 12:30 PM - 2:00 PM",
+        "location": "PAC 1001",
+        "img": "/assets/gallery/g18.JPG"
+      },
+      {
+        "title": "Gymathlon",
+        "description": "Do you think your the fittest member of strength club? This event is your chance to prove it. Participants will be competing in 3 different events, Max deadhang, Plank, and wall sit. Winners will receive prizes!",
+        "dateTime": "Saturday March 22nd 1:00 PM - 2:00 PM",
+        "location": "PAC Fitness Centre",
         "img": "/assets/gallery/g22.JPG"
+      },
+      {
+        "title": "Battle of the Barbells Mock Meet",
+        "description": "Come test your max squat, bench, and deadlift in our end of term mock powerlifting meet. Get all the experience of competing at a real powerlifting meet without the same pressure!",
+        "dateTime": "Sunday April 6th 10:00 AM",
+        "location": "CIF Fitness Centre",
+        "img": "/assets/gallery/g25.JPEG"
       }
     ]
   },
