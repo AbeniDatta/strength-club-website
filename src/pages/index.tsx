@@ -8,6 +8,7 @@ import MainHero from '../components/MainHero';
 import MainHeroImage from '../components/MainHeroImage';
 import MeetTheTeam from '../components/MeetTheTeam';
 import MembInfo from '../components/MembInfo';
+import PowerliftingTeam from '../components/PowerliftingTeam';
 
 const App = () => {
   return (
@@ -34,6 +35,11 @@ const App = () => {
       <LazyShow>
         <>
           <MeetTheTeam />
+        </>
+      </LazyShow>
+      <LazyShow>
+        <>
+          <PowerliftingTeam />
         </>
       </LazyShow>
       <LazyShow>

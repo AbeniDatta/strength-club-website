@@ -5,7 +5,7 @@
   },
   "navigation": [
     {
-      "name": "Membership Info",
+      "name": "Membership",
       "href": "membInfo"
     },
     {
@@ -14,8 +14,13 @@
     },
 
     {
-      "name": "Meet The Team",
+      "name": "Our Team",
       "href": "meetTheTeam"
+    },
+
+    {
+      "name": "Powerlifting Team",
+      "href": "powerlifting"
     }
   ],
   "mainHero": {
@@ -148,6 +153,111 @@
       }
     ]
   },
+  "powerlifting": {
+    "title": "Meet the UWSC Powerlifting Team !",
+    "mainImage": {
+      "src": "/assets/gallery/powerlifting_team.jpg",
+      "alt": "UWSC Powerlifting Team Group Photo"
+    },
+    "disclaimer": "Want to be part of a strong, supportive, and driven powerlifting community? Join the University of Waterloo’s powerlifting team and compete in the OPA/CPU alongside like-minded athletes. Whether you're an experienced lifter or just starting your journey, we welcome dedicated individuals who are ready to work hard, push their limits, and grow in a team-focused environment. We recruit at the beginning of every term, so stay tuned to our Instagram for updates—don’t miss your chance to represent UW and take your lifting to the next level!",
+    "captain": {
+      "name": "Liv",
+      "image": "/assets/images/liv.jpg"
+    },
+    "assistantCaptains": [
+      {
+        "name": "Jacob",
+        "position": "Assistant Captain",
+        "image": "/assets/images/jacob1.jpg",
+        "description": "liv"
+      },
+      {
+        "name": "Tristan",
+        "position": "Assistant Captain",
+        "image": "/assets/images/jamie.jpg",
+        "description": "liv"
+      },
+      {
+        "name": "Leo",
+        "position": "Assistant Captain",
+        "image": "/assets/images/leo.jpg",
+        "description": "liv"
+      },
+      {
+        "name": "Aiden",
+        "position": "Assistant Captain",
+        "image": "/assets/images/aiden.jpg"
+      }
+    ],
+    "teamMembers": [
+      {
+        "name": "Alex Yoshida"
+      },
+      {
+        "name": "Danny Nguyen"
+      },
+      {
+        "name": "Aden Choi"
+      },
+      {
+        "name": "Jason Cao"
+      },
+      {
+        "name": "Nathan De Jonge"
+      },
+      {
+        "name": "Fletcher Dares"
+      },
+      {
+        "name": "Connor Smith"
+      },
+      {
+        "name": "Tony Yhap"
+      },
+      {
+        "name": "Alp Kes"
+      },
+      {
+        "name": "Tegan Asprey"
+      },
+      {
+        "name": "Evan Blaylock"
+      },
+      {
+        "name": "Nolan Thorpe"
+      },
+      {
+        "name": "Nathan Luciw"
+      },
+      {
+        "name": "Thomas Thagarajah"
+      },
+      {
+        "name": "Jack Quibell"
+      },
+      {
+        "name": "Patrick Tompkins"
+      },
+      {
+        "name": "Isshana Mohanakumar"
+      },
+      {
+        "name": "Annie Li"
+      },
+      {
+        "name": "Nowshin Kazi"
+      },
+      {
+        "name": "Alice Chen"
+      },
+      {
+        "name": "John Damasco"
+      },
+      {
+        "name": "Aryan Sood"
+      }
+    ]
+  },
   "pricing": {
     "title": "Pricing",
     "items": [
@@ -190,16 +300,20 @@
   "about": {
     "sections": [
       {
-        "name": "Events",
-        "href": "#events"
-      },
-      {
         "name": "Membership",
         "href": "#membInfo"
       },
       {
-        "name": "Team",
+        "name": "Events",
+        "href": "#events"
+      },
+      {
+        "name": "Our Team",
         "href": "#meetTheTeam"
+      },
+      {
+        "name": "Powerlifting Team",
+        "href": "#powerlifting"
       }
     ]
   }

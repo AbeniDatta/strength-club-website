@@ -74,7 +74,7 @@ const MembInfo = () => {
                   src="/assets/equipment/bars.JPEG"
                   alt="Power & Olympic Bar"
                 />
-                <p className="legend">Power (2) & Olympic Bar (1)</p>
+                <p className="legend">Power & Olympic Bars</p>
               </div>
               <div>
                 <img src="/assets/equipment/maggrips.JPEG" alt="MAG Grips" />
@@ -82,10 +82,49 @@ const MembInfo = () => {
               </div>
               <div>
                 <img
-                  src="/assets/equipment/clipChange.JPEG"
-                  alt="Clips & Change Plates"
+                  src="assets/equipment/Clips_Plates_Salt_Chalk_Tripod.JPG"
+                  alt="Clips, Change Plates, Chalk & Tripod"
                 />
-                <p className="legend">Clips & Change Plates</p>
+                <p className="legend">Clips, Change Plates, Chalk & Tripod</p>
+              </div>
+              <div>
+                <img src="assets/equipment/BenchMat.JPG" alt="Bench Mat" />
+                <p className="legend">Bench Mat</p>
+              </div>
+              <div>
+                <img
+                  src="assets/equipment/DeadliftJack.JPG"
+                  alt="Deadlift Jack"
+                />
+                <p className="legend">Deadlift Jack</p>
+              </div>
+              <div>
+                <img src="assets/equipment/SSBbar.JPG" alt="SSB Bar" />
+                <p className="legend">SSB Bar</p>
+              </div>
+              <div>
+                <img src="assets/equipment/SwissBar.JPG" alt="Swiss Bar" />
+                <p className="legend">Swiss Bar</p>
+              </div>
+              <div>
+                <img src="assets/equipment/TBarRow.JPG" alt="T-Bar Row" />
+                <p className="legend">T-Bar Row</p>
+              </div>
+              <div>
+                <img
+                  src="assets/equipment/WeighingScale.JPG"
+                  alt="Weighing Scale"
+                />
+                <p className="legend">Weighing Scale</p>
+              </div>
+              <div>
+                <img
+                  src="assets/equipment/LoopCableAt_Bands_ArmLoops.JPG"
+                  alt="Loop Cable Attachment, Bands & Arm Loops"
+                />
+                <p className="legend">
+                  Loop Cable Attachment, Bands & Arm Loops
+                </p>
               </div>
             </Carousel>
           </div>
