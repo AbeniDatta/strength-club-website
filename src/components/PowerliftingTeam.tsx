@@ -1,11 +1,10 @@
 import React from 'react';
 
-import 'react-responsive-carousel/lib/styles/carousel.min.css';
 import { Carousel } from 'react-responsive-carousel';
 
 import Divider from './Divider';
 import config from '../config/index.json';
-/* import { exec } from 'child_process'; */
+import 'react-responsive-carousel/lib/styles/carousel.min.css';
 
 const PowerliftingTeam = () => {
   const { powerlifting } = config;
@@ -27,7 +26,7 @@ const PowerliftingTeam = () => {
           <img
             src={mainImage.src}
             alt={mainImage.alt}
-            className="rounded-lg shadow-lg max-w-lg h-auto"
+            className="rounded-lg shadow-lg h-auto"
           />
         </div>
 
@@ -39,47 +38,42 @@ const PowerliftingTeam = () => {
           <h3 className="text-3xl font-bold text-gray-900 mb-10">
             Our Exclusive Equipment
           </h3>
+        </div>
+        {/* Carousel Wrapper */}
 
-          {/* Carousel Wrapper */}
-
-          <div className="custom-carousel bg-white custom-legend max-w-md mx-auto md:max-w-lg lg:max-w-xl">
-            <Carousel
-              className="custom-carousel"
-              showThumbs={false}
-              infiniteLoop
-            >
-              <div className="flex items-center justify-center ">
-                <img
-                  src="/assets/powerliftingteamequipment/TeamOnlyBar.JPG"
-                  alt="Team Power Bar"
-                />
-                <p className="legend">Team Only Bar</p>
-              </div>
-              <div>
-                <img
-                  src="assets/powerliftingteamequipment/BabyPow_TeamSalts_CompCollars.JPG"
-                  alt="Competition Collars,Baby Powder, Smelling Salts"
-                />
-                <p className="legend">
-                  Competition Collars,Baby Powder, Smelling Salts{' '}
-                </p>
-              </div>
-              <div>
-                <img
-                  src="/assets/powerliftingteamequipment/Carpet.JPG"
-                  alt="Team Carpet"
-                />
-                <p className="legend">Team Carpet</p>
-              </div>
-              <div>
-                <img
-                  src="assets/powerliftingteamequipment/MeetDaybag.JPG"
-                  alt="Meet Day Bag"
-                />
-                <p className="legend">Meet Day Bag</p>
-              </div>
-            </Carousel>
-          </div>
+        <div className="custom-carousel bg-white custom-legend max-w-md mx-auto md:max-w-lg lg:max-w-xl">
+          <Carousel className="custom-carousel" showThumbs={false} infiniteLoop>
+            <div className="flex items-center justify-center ">
+              <img
+                src="/assets/powerliftingteamequipment/TeamOnlyBar.JPG"
+                alt="Team Power Bar"
+              />
+              <p className="legend">Team Only Bar</p>
+            </div>
+            <div>
+              <img
+                src="assets/powerliftingteamequipment/BabyPow_TeamSalts_CompCollars.JPG"
+                alt="Competition Collars,Baby Powder, Smelling Salts"
+              />
+              <p className="legend">
+                Competition Collars,Baby Powder, Smelling Salts{' '}
+              </p>
+            </div>
+            <div>
+              <img
+                src="/assets/powerliftingteamequipment/Carpet.JPG"
+                alt="Team Carpet"
+              />
+              <p className="legend">Team Carpet</p>
+            </div>
+            <div>
+              <img
+                src="assets/powerliftingteamequipment/MeetDaybag.JPG"
+                alt="Meet Day Bag"
+              />
+              <p className="legend">Meet Day Bag</p>
+            </div>
+          </Carousel>
         </div>
 
         {/* Captains Section */}
@@ -118,18 +112,6 @@ const PowerliftingTeam = () => {
             ))}
           </div>
         </div>
-
-        {/* Team Members Section */}
-        {/* <div className="mt-16 text-center w-full">
-          <h3 className="text-2xl font-semibold text-gray-900 mb-6">Powerlifting Team Members</h3>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-left max-w-2xl mx-auto">
-            {teamMembers.map((member, index) => (
-              <p key={index} className="text-lg font-semibold text-gray-900">
-                • {member.name}
-              </p>
-            ))}
-          </div>
-        </div> */}
       </div>
     </section>
   );

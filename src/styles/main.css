@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+html, body {
+  overflow-x: hidden; /* Prevents horizontal scrolling */
+  width: 100%;
+}
 
 :root {
   --color-primary: rgb(247, 187, 9);
