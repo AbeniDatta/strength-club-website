@@ -61,58 +61,23 @@
     "inventory": "Below is our current inventory of equipment"
   },
   "events": {
-    "title": "Winter Events",
+    "title": "Spring Events",
     "link": {
       "url": "https://warrior.uwaterloo.ca/Program/GetProgramDetails?courseId=d5e8f642-3ffa-42ef-8f24-7bf55c40f5ec",
       "text": "Click here to register for upcoming events!"
     },
     "items": [
       {
-        "title": "Try-It Session",
-        "description": "Come on out to our FREE introduction session where we'll be giving a presentation on the ins and outs of Strength Club. Come prepared to hit an optional lift-together with us after!",
-        "dateTime": "Saturday January 25th 1:00 PM",
-        "location": "PAC 1001",
-        "img": "/assets/gallery/g25.JPEG"
-      },
-      {
-        "title": "Powerlifting Watch Party",
-        "description": "Join us for Sheffield 2025, the biggest and most exciting event of the year in the world of powerlifting! Witness elite athletes from around the globe compete at the highest level, showcasing strength, determination, and raw power. Whether you're a die-hard fan or new to the sport, this is an experience you won't want to miss. Come for the entire event or drop by for part of it—just be sure to bring your snacks, cheer for your favorites, and soak in the incredible atmosphere. Let's make it a fun and memorable celebration of strength together!",
-        "dateTime": "Sunday January 26th 9:30 AM - 2:30 PM",
-        "location": "MC 2017",
-        "img": "/assets/gallery/sheffield1.jpg"
-      },
-      {
-        "title": "Galentine's Day Event",
-        "description": "Come out and join our female execs for an empowering women-only lifting event during women's hours. We will take you through a workout and provide tips and tricks for helping you achieve your gym goals.",
-        "dateTime": "Wednesday February 12th 1:00 PM - 2:00 PM",
-        "location": "CIF Fitness Centre",
-        "img": "/assets/gallery/g4.JPG"
-      },
-      {
-        "title": "Beginner Powerlifting Seminar",
-        "description": "Do you want to get started in powerlifting? Want to learn everything needed to get ready for your first Powerlifting Meet? Come out to our Beginner Powerlifing Seminar! At our seminar, you'll learn everything from how to train like a powerlifter and ace your first meet to what to look for in a coach.",
-        "dateTime": "Saturday March 8th 12:30 PM - 2:00 PM",
-        "location": "PAC 1001",
-        "img": "/assets/gallery/g18.JPG"
-      },
-      {
-        "title": "Gymathlon",
-        "description": "Do you think your the fittest member of strength club? This event is your chance to prove it. Participants will be competing in 3 different events, Max deadhang, Plank, and wall sit. Winners will receive prizes!",
-        "dateTime": "Saturday March 22nd 1:00 PM - 2:00 PM",
-        "location": "PAC Fitness Centre",
-        "img": "/assets/gallery/g22.JPG"
-      },
-      {
         "title": "Battle of the Barbells Mock Meet",
         "description": "Come test your max squat, bench, and deadlift in our end of term mock powerlifting meet. Get all the experience of competing at a real powerlifting meet without the same pressure!",
-        "dateTime": "Sunday April 6th 10:00 AM",
+        "dateTime": "Saturday July 19th 10:00 AM - 12:00 PM",
         "location": "PAC Fitness Centre",
         "img": "/assets/gallery/g17.JPG"
       }
     ]
   },
   "meetTheTeam": {
-    "title": "W2025 Team",
+    "title": "S2025 Team",
     "subtitle": "Meet the Team!",
     "description": " ",
     "items": [
