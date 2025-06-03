@@ -137,21 +137,15 @@
         "description": "liv"
       },
       {
-        "name": "Tristan",
+        "name": "Aiden",
         "position": "Assistant Captain",
-        "image": "/assets/images/jamie.jpg",
-        "description": "liv"
+        "image": "/assets/images/aiden.jpg"
       },
       {
         "name": "Leo",
         "position": "Assistant Captain",
         "image": "/assets/images/leo.jpg",
         "description": "liv"
-      },
-      {
-        "name": "Aiden",
-        "position": "Assistant Captain",
-        "image": "/assets/images/aiden.jpg"
       }
     ]
   },
