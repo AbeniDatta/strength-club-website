@@ -48,7 +48,7 @@ const PowerliftingTeam = () => {
                 src="/assets/powerliftingteamequipment/TeamOnlyBar.JPG"
                 alt="Team Power Bar"
               />
-              <p className="legend">Team Only Bar</p>
+              <p className="legend">Team Only Power Bar</p>
             </div>
             <div>
               <img
@@ -56,7 +56,7 @@ const PowerliftingTeam = () => {
                 alt="Competition Collars,Baby Powder, Smelling Salts"
               />
               <p className="legend">
-                Competition Collars,Baby Powder, Smelling Salts{' '}
+                Competition Collars, Baby Powder, Norse Smelling Salts{' '}
               </p>
             </div>
             <div>
@@ -64,7 +64,7 @@ const PowerliftingTeam = () => {
                 src="/assets/powerliftingteamequipment/Carpet.JPG"
                 alt="Team Carpet"
               />
-              <p className="legend">Team Carpet</p>
+              <p className="legend">Team Lifting Carpet</p>
             </div>
             <div>
               <img

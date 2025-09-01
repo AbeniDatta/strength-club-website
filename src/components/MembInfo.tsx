@@ -71,25 +71,22 @@ const MembInfo = () => {
             >
               <div className="flex items-center justify-center ">
                 <img
-                  src="/assets/equipment/bars.JPEG"
+                  src="/assets/equipment/newallbars.JPG"
                   alt="Power & Olympic Bar"
                 />
-                <p className="legend">Power & Olympic Bars</p>
+                <p className="legend">Power (3) & Olympic (1) Bars</p>
+              </div>
+              <div>
+                <img src="assets/equipment/SSBbar.JPG" alt="SSB Bar" />
+                <p className="legend">SSB Bar</p>
+              </div>
+              <div>
+                <img src="assets/equipment/SwissBar.JPG" alt="Swiss Bar" />
+                <p className="legend">Swiss Bar (25 lbs)</p>
               </div>
               <div>
                 <img src="/assets/equipment/maggrips.JPEG" alt="MAG Grips" />
                 <p className="legend">MAG Grips</p>
-              </div>
-              <div>
-                <img
-                  src="assets/equipment/Clips_Plates_Salt_Chalk_Tripod.JPG"
-                  alt="Clips, Change Plates, Chalk & Tripod"
-                />
-                <p className="legend">Clips, Change Plates, Chalk & Tripod</p>
-              </div>
-              <div>
-                <img src="assets/equipment/BenchMat.JPG" alt="Bench Mat" />
-                <p className="legend">Bench Mat</p>
               </div>
               <div>
                 <img
@@ -99,16 +96,35 @@ const MembInfo = () => {
                 <p className="legend">Deadlift Jack</p>
               </div>
               <div>
-                <img src="assets/equipment/SSBbar.JPG" alt="SSB Bar" />
-                <p className="legend">SSB Bar</p>
-              </div>
-              <div>
-                <img src="assets/equipment/SwissBar.JPG" alt="Swiss Bar" />
-                <p className="legend">Swiss Bar</p>
+                <img
+                  src="assets/equipment/AdjustableCableAttachmentsnew.jpg"
+                  alt="Adjustable Cable Attachments"
+                />
+                <p className="legend">Adjustable Cable Attachments</p>
               </div>
               <div>
                 <img src="assets/equipment/TBarRow.JPG" alt="T-Bar Row" />
                 <p className="legend">T-Bar Row</p>
+              </div>
+              <div>
+                <img
+                  src="assets/equipment/EZBarCableAttachment.JPG"
+                  alt="EZ Bar Cable Attachment"
+                />
+                <p className="legend">EZ Bar Cable Attachment</p>
+              </div>
+              <div>
+                <img
+                  src="assets/equipment/Clips_Plates_Salt_Chalk_Tripod_new.JPG.jpg"
+                  alt="Clips, Change Plates, Chalk, Tripod & Wedges"
+                />
+                <p className="legend">
+                  Clips, Change Plates, Chalk, Tripod & Heel Wedges
+                </p>
+              </div>
+              <div>
+                <img src="assets/equipment/BenchMat.JPG" alt="Bench Mat" />
+                <p className="legend">Bench Mat</p>
               </div>
               <div>
                 <img
