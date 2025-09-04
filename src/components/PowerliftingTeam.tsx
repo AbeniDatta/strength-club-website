@@ -45,6 +45,13 @@ const PowerliftingTeam = () => {
           <Carousel className="custom-carousel" showThumbs={false} infiniteLoop>
             <div className="flex items-center justify-center ">
               <img
+                src="/assets/powerliftingteamequipment/ComboRack.JPG"
+                alt="Powerlifting Team Combo Rack"
+              />
+              <p className="legend">Powerlifting Team Combo Rack</p>
+            </div>
+            <div>
+              <img
                 src="/assets/powerliftingteamequipment/TeamOnlyBar.JPG"
                 alt="Team Power Bar"
               />
